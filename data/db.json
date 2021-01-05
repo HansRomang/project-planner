@@ -11,6 +11,12 @@
       "title": "Something...",
       "details": "Lorem ipsum",
       "complete": false
+    },
+    {
+      "title": "New Project...",
+      "details": "Project goes here!",
+      "complete": false,
+      "id": 3
     }
   ]
 }
