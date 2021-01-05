@@ -1,5 +1,7 @@
 # project-planner
 
+![](projectplannergif.gif)
+
 ## Project setup
 ```
 npm install
